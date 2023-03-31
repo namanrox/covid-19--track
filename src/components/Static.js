@@ -19,7 +19,7 @@ const Static = () => {
         <div
           ref={progress_bar}
           className="progress-bar progress-bar-striped progress-bar-animated"
-        ></div> 
+        ></div>
       </div>
       <nav className="navbar navbar-expand-md navbar-light bg-light">
         <div className="navbar-brand justify-content-md-center p-0">
